@@ -29,3 +29,11 @@ Based in: Athens, Greece, EU 🇪🇺🇬🇷
 | 📸 [TuxHouse Instagram](https://www.instagram.com/tuxhouseedu) | 🎵 [TuxHouse TikTok](https://www.tiktok.com/@tuxhouseedu) |
 | 🐧 [Linux-User.gr](https://linux-user.gr/u/sv1sjp) | 📻 [QRZ](https://www.qrz.com/db/sv1sjp) |
 | 💬 [Discord](https://discordapp.com/users/sv1sjp) | 📡 [Matrix](https://matrix.to/#/@sv1sjp:matrix.org)|
+
+### Let's Collaborate
+
+I'm always open to new projects, collaborations, and discussions. Feel free to reach out to me through any of the platforms listed above!
+
+---
+
+🐧 Keywords: Linux, Android, Cybersecurity, Blockchain, Ethereum, Decentralization, Fediverse, Mastodon, Lemmy, Educational Technologies
