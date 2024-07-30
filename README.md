@@ -3,12 +3,12 @@ $whoami
 # Dimitris Vagiakakos @sv1sjp
 
 
-🏠 Founder of TuxHouseEdu
+🏠 Founder of [TuxHouseEdu](https://youtube.com/@TuxHouseEdu)
 🔍 Penetration Tester at Grant Thornton Greece
 🎓 Specializing in Educational Technologies
 🔗 Blockchain Smart Contract Security Auditor
 📸 Creator of Blockchain Camera
-🐧 Moderating Linux-User.gr
+🐧 Moderating [Linux-User.gr](https://linux-user.gr)
 
 ```
 MSc in Blockchain & Digital Currency at University Of Nicosia 🇪🇺🇨🇾
