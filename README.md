@@ -4,7 +4,7 @@ $whoami
 
 
 🏠 Founder of [TuxHouseEdu](https://youtube.com/@TuxHouseEdu)
-🔍 Penetration Tester at Grant Thornton Greece
+🔍 Penetration Tester at NVISO Security
 🎓 Specializing in Educational Technologies
 🔗 Blockchain Smart Contract Security Auditor
 📸 Creator of Blockchain Camera
