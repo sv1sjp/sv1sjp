@@ -3,7 +3,7 @@ $whoami
 # Dimitris Vagiakakos @sv1sjp
 
 
-🏠 Founder of [TuxHouseEdu](https://tuxhouse.eu)
+🏠 Founder of [TuxHouseEU](https://tuxhouse.eu)
 🔍 Senior Cyber Security Consultant / Senior Penetration Tester at NVISO Security
 🔗 Blockchain Smart Contract Security Auditor
 📸 Creator of Blockchain Camera
